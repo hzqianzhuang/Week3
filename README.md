@@ -5,5 +5,5 @@
 This repository contains:
 
 - [Dimensionality reduction using PCA](pca_faces.ipynb)
-- [ML basics] ml_basics.ipynb
+- [ML basics](ml_basics.ipynb)
 - [Homework Assignment #2](HW2.ipynb)
