@@ -1,8 +1,9 @@
 # MUSA 650: Machine Learning in Remote Sensing
 
-## Week3: Satellite Imaging Data Analysis with Python
+## Week3: Machine Learning Basics 
 
 This repository contains:
 
-- [Introduction to satellite image analysis with Python, DSTL challenge](PrjA1_DSTL_ImgChannelsMasks.ipynb)
+- [Dimensionality reduction using PCA](pca_faces.ipynb)
+- [ML basics] ml_basics.ipynb
 - [Homework Assignment #2](HW2.ipynb)
